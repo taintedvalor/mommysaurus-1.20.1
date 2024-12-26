@@ -45,6 +45,8 @@ dependencies {
 
 	modImplementation "maven.modrinth:modmenu:${project.modmenu}"
 
+	modImplementation "maven.modrinth:supermartijn642s-config-lib:${project.supermartijn642s}"
+
 	modImplementation "io.wispforest:lavender:${project.lavender_version}"
 	include "io.wispforest:owo-sentinel:${project.owo_version}" // check owo's page for this version
 
